@@ -1,8 +1,8 @@
 ## Oi Eu sou Daniel Santos, estudante de Análise e Desenvolvimento de Sistemas!
 
-. 👨💻 APRENDENDO DESENVOLVIMENTO BACK-END
-. 🌱 ESTUDANDO LINGUAGEM JAVA
-.  ☺ PRONOUNS ELE/DELE
+- 👨💻 APRENDENDO DESENVOLVIMENTO BACK-END
+- 🌱 ESTUDANDO LINGUAGEM JAVA
+-  ☺ PRONOUNS ELE/DELE
 
 ##
 
