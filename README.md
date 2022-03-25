@@ -1,7 +1,7 @@
 ## Oi Eu sou Daniel Santos, estudante de Análise e Desenvolvimento de Sistemas!
 
-- 👨💻 APRENDENDO DESENVOLVIMENTO Full-Stack
-- 🌱 ESTUDANDO LINGUAGEM JAVA, HTML E CSS
+- 👨💻 APRENDENDO DESENVOLVIMENTO FULLSTACK
+- 🌱 ESTUDANDO LINGUAGEM JAVA, HTML E CSS COM A UTILIZAÇÃO DO BOOTSTRAP
 -  ☺ PRONOUNS ELE/DELE
 
 ##
