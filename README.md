@@ -1,7 +1,7 @@
 ## Oi Eu sou Daniel Santos, estudante de Análise e Desenvolvimento de Sistemas!
 
-- 👨💻 APRENDENDO DESENVOLVIMENTO FULLSTACK
-- 🌱 ESTUDANDO LINGUAGEM JAVA, HTML E CSS COM A UTILIZAÇÃO DO BOOTSTRAP
+- 📘 ESTUDANTE NA UNIVERSIDADE CATÓLICA DO SALVADOR
+- 💻 DESENVOLVEDOR FULLSTACK JR - ANGULAR, NODE.JS, TYPESCRIPT, HMTL5, CSS3, JAVASCRIPT, JAVA
 -  ☺ PRONOUNS ELE/DELE
 
 ##
@@ -13,10 +13,17 @@
 
   
   <div style="display: inline_block"><br>
- <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
- <img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
- <img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
- <img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+ <img align="center" height="50" width="60" 
+      src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg" />
+ <img align="center" heigth="30" width="40"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+ <img align="center" heigth="30" width="40"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+ <img align="center" heigth="30" width="40"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+ <img align="center" heigth="30" width="40"        src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg"/>
+     <img align="center" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg"/>
+      <img align="center" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg"/>
           
                
 
