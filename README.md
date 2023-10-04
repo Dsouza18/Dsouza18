@@ -1,7 +1,7 @@
 ## Oi Eu sou Daniel Santos, estudante de Análise e Desenvolvimento de Sistemas!
 
 - 📘 ESTUDANTE NA UNIVERSIDADE CATÓLICA DO SALVADOR
-- 💻 DESENVOLVEDOR JR - JAVA, JAVASCRIPT
+- 💻 DESENVOLVEDOR JR - JAVA
 -  ☺ PRONOUNS ELE/DELE
 
 ##
