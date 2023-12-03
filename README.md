@@ -28,10 +28,11 @@
       <img align="center" heigth="30" width="40" style="background-color: #fffff"
            src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg"/>
     
-##
+## Contacts
     
   <a href = "mailto:daniel.santos1805@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/daniel-santos-2b2505129/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Dsouza18/Dsouza18/blob/output/github-contribution-grid-snake.svg)
+
+
  
